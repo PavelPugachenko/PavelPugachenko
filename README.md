@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я 👋 <a href="https://github.com/PavelPugachenko">[Паша]</a>!</h1>
+<h1 align="center">Привет, я 👋 <a href="https://github.com/PavelPugachenko">Паша</a>!</h1>
 <h3 align="center">Junior Python Developer | Люблю учиться, писать код и делать что-то полезное 🚀</h3>
 
 ---
