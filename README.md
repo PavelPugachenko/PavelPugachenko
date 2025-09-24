@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**PavelPugachenko/PavelPugachenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет! Меня зовут Павел 👋
 
-Here are some ideas to get you started:
+Я начинающий Python-разработчик. Люблю бэкенд, инфраструктуру и простоту в коде.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Немного обо мне
+- 🔭 Сейчас работаю над pet-проектами на Python
+- 🌱 Изучаю: Веб разработку, Docker, PostgreSQL
+- 💬 Люблю чистый код и понятные архитектуры
+
+## 🛠 Мои навыки
+- Языки: Python, JavaScript (начальный)
+- Базы данных: PostgreSQL,
+- Технологии: REST API, Docker, Git
+
+## 📂 Проекты
+
+| Название | Описание | Стек |
+|----------|----------|------|
+| [go-url-shortener](https://github.com/username/go-url-shortener) | Сервис сокращения ссылок | Go, PostgreSQL, Docker |
+| [todo-api](https://github.com/username/todo-api) | REST API для задач | Go, Fiber, GORM |
+| [go-exercises](https://github.com/username/go-exercises) | Практика и мелкие задания | Go |
+
+## 📫 Связаться со мной
+- Telegram:
+- Email: 
+
+
