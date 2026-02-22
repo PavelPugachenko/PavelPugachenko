@@ -20,14 +20,6 @@
 
 ---
 
-### 🏆 Достижения
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PavelPugachenko&theme=radical&row=1&column=6" />
-</p>
-
----
-
 ### 📈 Активность на GitHub
 
 <p align="center">
